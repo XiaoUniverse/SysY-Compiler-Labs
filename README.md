@@ -1,5 +1,5 @@
 # SysY-Compiler-Labs
-This project implements the front end of a SysY compiler for the Compiler Principles course labs. The repository contains three modules:
+This project implements a SysY compiler for the Compiler Principles course labs. The repository contains three modules:
 
 - Lexer — Performs lexical analysis on SysY source code and outputs a sequence of tokens.
 
